@@ -1,6 +1,6 @@
 # ❕❕  Executable Against Reverse Engineering  ❕❕
 ## 👁️‍🗨️ INFORMATION 👁️‍🗨️
-### Developer: CYBERWARE
+### Developer: CYBER
 ### Language: Csharp (C#)
 ### Version: 1.0
 ### Category: RansomUSBWorm.Win32
@@ -14,9 +14,7 @@
 ### I, CYBERWARE, am not responsible for any damages or losses resulting.<br><br>
 ## ⤵ RECOMMENDATION ⤵
 ### For testing and study purposes, I strongly recommend using virtual machines like VMware or VirtualBox.<br><br>
-## ❇ SOCIALS ❇
-### ♤ YouTube: [CYBERWARE-TECH](https://www.youtube.com/@CYBERWARE-TECH)
-### ✯ Discord: t3nx1l
-### ☁ Meu Site:  [CYBERWARE PROFILE] (https://linkfly.to/CYBERWARE)
 ## 🔴  Test Video  🔴
-### Made by Me(CYBERWARE): [...............]
+### Made by Me: [https://youtu.be/5V7wWW2Utfg]
+### Made by Joaozz1nn: [https://youtu.be/Rkp0sfbYAq0]
+
